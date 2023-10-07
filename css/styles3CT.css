@@ -498,7 +498,7 @@ main#curso {
 }
 #curso p, #curso li, #curso dt, #curso dd {
   line-height: 2;
-  font-size: 1.2em;
+  font-size: 1.2rem;
   color: #444;
   font-weight: 400;
 }
